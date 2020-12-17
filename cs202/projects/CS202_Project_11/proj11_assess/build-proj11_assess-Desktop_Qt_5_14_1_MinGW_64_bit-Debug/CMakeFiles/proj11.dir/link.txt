@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\proj11.dir/objects.a
+D:\qt\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\proj11.dir/objects.a @CMakeFiles\proj11.dir\objects1.rsp
+D:\qt\Tools\mingw730_64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\proj11.dir/objects.a -Wl,--no-whole-archive  -o proj11.exe -Wl,--out-implib,libproj11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\proj11.dir\linklibs.rsp

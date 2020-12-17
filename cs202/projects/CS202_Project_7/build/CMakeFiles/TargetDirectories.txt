@@ -1,0 +1,8 @@
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/list_install_components.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/MyString.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/proj7.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/install/local.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/install.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/edit_cache.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/rebuild_cache.dir
+D:/qt/PROJECTS/learning/project 7/project7/build/CMakeFiles/install/strip.dir

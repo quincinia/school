@@ -1,0 +1,2 @@
+D:\qt\Tools\mingw730_64\bin\ar.exe qc libMyString.a  CMakeFiles/MyString.dir/src/MyString/MyString.cpp.obj
+D:\qt\Tools\mingw730_64\bin\ranlib.exe libMyString.a

@@ -1,0 +1,2 @@
+tree : Main.cpp LeftLeaningRedBlack.cpp RedBlackBasic.cpp TwoThreeExterior.cpp TwoThreeInterior.cpp
+	g++ -std=c++11 -o tree Main.cpp LeftLeaningRedBlack.cpp RedBlackBasic.cpp TwoThreeExterior.cpp TwoThreeInterior.cpp	
