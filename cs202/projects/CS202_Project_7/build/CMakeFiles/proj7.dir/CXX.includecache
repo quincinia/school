@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/qt/PROJECTS/learning/project 7/project7/include/MyString/MyString.h
+iostream
+-
+
+D:/qt/PROJECTS/learning/project 7/project7/src/proj7.cpp
+iostream
+-
+../include/MyString/MyString.h
+D:/qt/PROJECTS/learning/project 7/project7/include/MyString/MyString.h
+

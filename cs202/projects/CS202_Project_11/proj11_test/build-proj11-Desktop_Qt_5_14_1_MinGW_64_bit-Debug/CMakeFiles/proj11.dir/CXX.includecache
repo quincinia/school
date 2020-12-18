@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/VectorRecursion/VectorRecursion.hpp
+vector
+-
+iostream
+-
+
+D:/qt/PROJECTS/learning/CS202_Project_11/src/proj11_assess.cpp
+VectorRecursion/VectorRecursion.hpp
+-
+algorithm
+-
+chrono
+-
+fstream
+-
+cstdlib
+-
+ctime
+-
+

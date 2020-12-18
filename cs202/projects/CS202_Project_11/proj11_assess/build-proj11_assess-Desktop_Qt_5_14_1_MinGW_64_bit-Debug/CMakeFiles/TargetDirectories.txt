@@ -1,0 +1,7 @@
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/proj11.dir
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/qt/PROJECTS/learning/CS202_Project_11/proj11_assess/build-proj11_assess-Desktop_Qt_5_14_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
